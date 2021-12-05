@@ -10,4 +10,4 @@ for num in numbers: # iteração sobre a lista numbers
 		print(num," è ímpar")
 		cont_impar+=1
 		
-print("na lista [numbers] temos:" ,cont_impar,"numeros impares \ne temos ",cont_par,"numeros pares")
+print("na lista [numbers] temos:" ,cont_impar,"numeros impares \n e temos ",cont_par,"numeros pares")
